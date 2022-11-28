@@ -1,0 +1,13 @@
+#card{
+
+    color:black;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-top: 8px;
+    box-shadow: 15px;
+}
+#title{
+
+    border-bottom: 1px solid black;
+}

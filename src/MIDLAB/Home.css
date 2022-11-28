@@ -1,0 +1,87 @@
+
+#menu{
+    width: 100vw;
+    height: 10vh;
+    background-color: rgba(15, 15, 57, 0.954);
+    display: flex;
+    
+}
+
+#section1{
+    margin-top: 1%;
+    margin-left: 6% ;
+    color: white;
+}
+section1:hover{
+    background: red;
+}
+.dropdown{
+    margin-left: 15vw;
+    margin-top: -5.8vh;
+}
+.button{
+    color: aliceblue;
+    margin-left: 5vw;
+    text-decoration: none;
+    
+}
+.button:hover{
+    background-color: red;
+}
+#section2{
+    color: white;
+    justify-content: center;
+    display: flex;
+    margin-left: 7%;
+    margin-top: 1%;
+   
+}
+#section3{
+    margin-left: 10%;
+  margin-top: 1.5%;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+.icons{
+  
+  margin-left: 40px;
+  margin-top: 8px;
+}
+.links{
+    color: white;
+    text-decoration: none;
+    padding-left: 8%;
+    margin-top: 2%;
+    margin-left: 8px;
+    
+}
+.links:hover{
+    background-color: red;
+}
+#middlesection{
+/* 
+height: 80vh; */
+
+}
+#left{
+    
+    background-color: rgb(222, 222, 222) ;
+   
+}
+#center{
+    
+
+    background-color: rgb(235, 245, 245);
+}
+#right{
+    
+    background-color: rgb(231, 224, 243);
+    
+}
+#footer{
+    width: 100vw;
+    height: 30%;
+    background-color: rgba(15, 15, 57, 0.954);
+
+}
